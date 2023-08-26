@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <p>C2C Business Solutions ----  SK</p>
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
